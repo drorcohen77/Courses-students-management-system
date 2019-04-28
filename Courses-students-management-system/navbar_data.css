@@ -1,0 +1,69 @@
+/*--NAVABAR--*/
+
+.navbar {
+    margin-bottom: 0px;
+    height: 70px;
+}
+
+.container-fluid{
+     padding-left: 25px;
+    padding-right: 25px;
+}
+
+.nav_logo {
+    margin-top: 7px;
+}
+
+.logo1 {
+    font-family: 'Crete Round', serif;
+    color: #02c189 !important;
+    font-size: 30px;
+}
+
+.logo2 {
+    font-family: 'Crete Round', serif;
+    color: #02c189 !important;
+    font-size: 25px;
+    padding-left: 2px;
+}
+
+.nav {
+    margin-top: 8px;
+}
+
+.nav_logout {
+    margin-left: 20px;
+}
+
+.navbar-right {
+    margin-right: 5px;
+    width: 370px !important;
+}
+
+.nav_img {
+    top: 5px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+.nav_name {
+    margin-right: 10px;
+}
+
+a {
+    font-size: 17px;
+}
+
+.logout {
+    position: absolute;
+    margin-left: 10px;
+    width: 70px;
+}
+
+.icon {
+    position: absolute;
+    left: 0px;
+    top: 13px !important;
+}
+
+/*---*/

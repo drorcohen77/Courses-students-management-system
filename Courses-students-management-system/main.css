@@ -1,0 +1,86 @@
+.role_name {
+    color: blue;
+    font-weight: bold;
+}
+
+.main {
+    margin: 70px;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+._title {
+    position: absolute;
+    font-size: 18px;
+    bottom: 5px;
+    left: 120px;
+}
+
+._title1 {
+    position: absolute;
+    font-size: 18px;
+    bottom: 5px;
+    left: 140px;
+}
+
+._title2 {
+    position: absolute;
+    font-size: 18px;
+    bottom: 5px;
+    left: 135px;
+}
+
+.crs_num_title {
+    text-align: center;
+    margin: 0px;
+    font-family: 'Crete Round', serif;
+    background-color: #2e6da4;
+    height: 35px;
+    position: relative;
+    color: white;
+}
+
+.crs_num {
+    color: #2e6da4;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bolder;
+    background-color: white;
+}
+
+.std_num_title {
+    text-align: center;
+    margin: 0px;
+    font-family: 'Crete Round', serif;
+    background-color: #2e6da4;
+    height: 35px;
+    position: relative;
+    color: white;
+}
+
+.std_num {
+    color: #2e6da4;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bolder;
+    background-color: white;
+}
+
+.admin_num_title {
+    margin: 0px;
+    font-family: 'Crete Round', serif;
+    background-color: #2e6da4;
+    height: 35px;
+    position: relative;
+    color: white;
+}
+
+.admin_num {
+    color: #2e6da4;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bolder;
+    background-color: white;
+}
